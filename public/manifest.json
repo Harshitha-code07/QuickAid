@@ -1,0 +1,21 @@
+{
+  "short_name": "Quick Aid",
+  "name": "Quick Aid Progressive Web App",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/000000/medical-heart.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/000000/medical-heart.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "display": "standalone",
+  "orientation": "portrait"
+}

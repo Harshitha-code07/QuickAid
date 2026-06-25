@@ -1,0 +1,1 @@
+{"name":"Quick Aid","description":"Smart First Aid Assistant providing instant voice-guided WHO instructions and a GPS-based nearby hospital finder.","requestFramePermissions":["geolocation"],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
